@@ -13,11 +13,12 @@ p {
 
 #notice {
   text-align: center;
-  font-size: 22px;
+  font-size: 40px;
   background-image: url('/unit_3/images/eggs.jpg');
   background-size: cover
-  color: #000;
+  color: white;
   font-family: Helvetica;
   padding: 70px;
+  line-height: 200%;
 }
 
