@@ -4,7 +4,7 @@ body {
 
 
 p {
-	font-family: Arial, sans-serif;
+	font-family: Helvetica, sans-serif;
 }
 
 #header {
@@ -13,8 +13,9 @@ p {
 
 #notice {
   text-align: center;
-  background: url("http://i.imgur.com/q0FaaAk.jpg");
-  background-size: cover;
+  font-size: 16;
+  background: url("images/eggs.jpg");
+  background-size: cover
   color: #fff;
   font-family: Helvetica;
 }
