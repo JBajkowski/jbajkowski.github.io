@@ -16,7 +16,8 @@ p {
   font-size: 22px;
   background-image: url('/unit_3/images/eggs.jpg');
   background-size: cover
-  color: #fff;
+  color: #000;
   font-family: Helvetica;
+  padding: 70px;
 }
 
