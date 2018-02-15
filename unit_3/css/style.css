@@ -14,7 +14,7 @@ p {
 #notice {
   text-align: center;
   font-size: 22px;
-  background: "images/eggs.jpg";
+  background: url(images/eggs.jpg);
   background-size: cover
   color: #fff;
   font-family: Helvetica;
