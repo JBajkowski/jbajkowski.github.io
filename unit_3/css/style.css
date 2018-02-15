@@ -14,10 +14,10 @@ p {
 #notice {
   text-align: center;
   font-size: 40px;
-  background-image: url('/unit_3/images/eggs.jpg');
-  background-size: cover
   color: #ffffff;
   font-family: Helvetica;
+  background-image: url('/unit_3/images/eggs.jpg');
+  background-size: cover;
   padding: 70px;
   line-height: 200%;
 }
