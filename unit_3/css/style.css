@@ -19,7 +19,7 @@ p {
 
 #notice {
   text-align: center;
-  font-size: 50px;
+  font-size: 60px;
   letter-spacing: 3px;
   font-family: 'Shrikhand', cursive;
   color: #ffffff;
@@ -29,4 +29,14 @@ p {
   line-height: 200%;
 }
 
-
+.grid-container {
+  display: grid;
+  grid: auto auto auto;
+  grid-gap: 10px;
+  padding: 10px;
+}
+.grid-container>div {
+  text-align: center;
+  padding:20px 0;
+  font-size: 30px;
+}
