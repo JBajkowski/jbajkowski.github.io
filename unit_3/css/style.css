@@ -19,7 +19,7 @@ p {
 
 #notice {
   text-align: center;
-  font-size: 60px;
+  font-size: 50px;
   letter-spacing: 3px;
   font-family: 'Shrikhand', cursive;
   color: #ffffff;
@@ -31,7 +31,7 @@ p {
 
 .grid-container {
   display: grid;
-  grid: auto auto auto;
+  grid-column:  auto auto auto;
   grid-gap: 10px;
   padding: 10px;
 }
