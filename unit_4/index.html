@@ -1,66 +1,60 @@
 <!DOCTYPE html>
 <html>
-
 <head>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<title>Miss Cynthia's Gentlemen Roosters</title>
 </head>
-
 <body>
-	<p id="header"> 
+	<header>
+		<p class="logo">Miss Cynthia's</p>
+		<nav>
 <!-- centered navigation -->
-		<a href="https://www.google.com/">Shop</a>
-		<a href="https://www.google.com/">Subscriptions</a>
-		<a href="https://www.google.com/">Wholesale</a>
-		<a href="https://www.google.com/">Learn</a>
-		<a href="https://www.google.com/">About</a>
-
-<!-- upper right cart -->
-		<a href="https://www.google.com/">Log In</a>
-		<a href="https://www.google.com/">Cart</a>
-	</p>
+			<a href="https://www.google.com/">Shop</a>
+			<a href="https://www.google.com/">Subscriptions</a>
+			<a href="https://www.google.com/">Wholesale</a>
+			<a href="https://www.google.com/">Learn</a>
+			<a href="https://www.google.com/">About</a>
+		</nav>
+		<div>
+			<!-- upper right cart -->
+			<a href="https://www.google.com/">Log In</a>
+			<a href="https://www.google.com/">Cart</a>
+		</div>
+	</header>
 	
 <!-- banner image and important notice section-->
-	<p id="notice">
-		Gift subscriptions<br> 
-		Join our dozen eggs of the month club<br> 
-		READ MORE
-	</p>
-	
-
-<!-- product section -->
-	<h2>Birds of the Month</h2>
-	<div class="grid-container">
-  		<div class="item1"><img src="images/bird_1.jpg"
-           alt="Bird 1"
-           title="Bird 1"> 
-		    <p>
-		    	Name of bird 1<br>
-		    	Bird 1 bio<br>
-		    	<a href="https://www.google.com/">Read More</a>
-		    </p>
+	<section id="notice">
+		<h2>Gift subscriptions</h2> 
+		<p>Join our dozen eggs of the month club</p> 
+		<form>
+			<label for="email-address">Email addresss</label>
+			<input type="email" name="email-address">
+			<input type="submit" value="Join Today">
+		</form>
+	</section>
+	<section id="products"><!-- product section -->
+		<h2>Birds of the Month</h2>
+		<div class="grid-container">
+  			<div class="item1">
+				<img src="images/bird_1.jpg" alt="Bird 1" title="Bird 1"> 
+		    		<h3>Name of bird 1</h3>
+			    	<p>Bird 1 bio</p>
+			    	<a href="#">Read More</a>
+		   	</div>
+			<div class="item1">
+				<img src="images/bird_2.jpg" alt="Bird 1" title="Bird 1"> 
+		    		<h3>Name of bird 1</h3>
+			    	<p>Bird 1 bio</p>
+			    	<a href="#">Read More</a>
+		   	</div>
+			<div class="item1">
+				<img src="images/bird_3.jpg" alt="Bird 1" title="Bird 1"> 
+		    		<h3>Name of bird 1</h3>
+			    	<p>Bird 1 bio</p>
+			    	<a href="#">Read More</a>
+		   	</div>
 		</div>
- 		
- 		<div class="item2"><img src="images/bird_2.jpg"
-           alt="Bird 2"
-           title="Bird 2"> 
-		    <p>
-		    	Name of bird 2<br>
-		    	Bird 2 bio<br>
-		    	<a href="https://www.google.com/">Read More</a>
-		    </p>
-		</div>
-  		
-  		<div class="item3"><img src="images/bird_3.jpg"
-           alt="Bird 3"
-           title="Bird 3"> 
-		    <p>
-		    	Name of bird 3<br>
-		    	Bird 3 bio<br>
-		    	<a href="https://www.google.com/">Read More</a>
-		    </p>
-		</div>
-	</div>
+	</section>
  
 
 <!-- banner image and overview section-->
