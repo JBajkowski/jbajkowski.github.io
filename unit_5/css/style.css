@@ -35,8 +35,9 @@ nav {
   letter-spacing: 3px;
   font-family: 'Playfair Display', serif;
   color: #ffffff;
-  background-image: url('/unit_3/images/eggs.jpg');
+  /* background-image: url('/unit_3/images/eggs.jpg');*/
   background-size: cover;
+  background-repeat: url('/images/eggs.jpg');
   padding: 70px;
   line-height: 200%;
 }
