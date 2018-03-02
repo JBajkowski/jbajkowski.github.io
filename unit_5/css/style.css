@@ -22,7 +22,7 @@ nav {
 
 }
 
-#header {
+header {
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
   background-color: #FFED74;
@@ -65,7 +65,7 @@ nav {
   font-size: 15px;
 }
 
-#footer {
+footer {
   text-align: center;
   background-color: #FF957E;
   font-style: bold
