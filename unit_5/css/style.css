@@ -48,9 +48,9 @@ nav {
   padding: 10px;
 }
 .grid-container>div {
-  text-align: center;
-  padding:20px 0;
-  font-size: 30px;
+  text-align: left;
+  padding:10px 20px;
+  font-size: 20px;
 }
 
 .grid-container-2 {
