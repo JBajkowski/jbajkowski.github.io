@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Playfair+Display');
+
+
+
+body {
+	background-color: aliceblue;
+}
+
+h1 h2 h3 h4 {
+	font-family: 'Playfair Display', serif;
+	letter-spacing: 5px;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+nav {
+  text-align: center;
+  background-color: black
+  color: white;
+  font-style: bold
+  letter-spacing: 3px;
+}
+
+#header {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+#notice {
+  text-align: center;
+  font-size: 20px;
+  letter-spacing: 3px;
+  font-family: 'Playfair Display', serif;
+  color: #ffffff;
+  background-image: url("../images/chicken_tile.jpg")
+  background-size: cover;
+  background-repeat: repeat;
+  padding: 70px;
+  line-height: 200%;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+  padding: 10px;
+}
+.grid-container>div {
+  text-align: center;
+  padding:20px 0;
+  font-size: 30px;
+}
+
+.grid-container-2 {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-gap: 10px;
+  padding: 10px;
+}
+.grid-container-2>div {
+  text-align: center;
+  padding:20px 20px;
+  font-size: 15px;
+}
+
+footer {
+  text-align: center;
+  background-color: black
+  color: white;
+  font-style: bold
+  letter-spacing: 3px;
+}
