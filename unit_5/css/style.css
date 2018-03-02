@@ -18,15 +18,15 @@ p {
 
 nav {
   text-align: center;
-  background-color: black
-  color: white;
   font-style: bold
-  letter-spacing: 3px;
+
 }
 
 #header {
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
+  background-color: #FFED74;
+
 }
 
 #notice {
@@ -65,10 +65,8 @@ nav {
   font-size: 15px;
 }
 
-footer {
+#footer {
   text-align: center;
-  background-color: black
-  color: white;
+  background-color: #FF957E;
   font-style: bold
-  letter-spacing: 3px;
 }
