@@ -35,9 +35,15 @@ nav {
   letter-spacing: 3px;
   font-family: 'Playfair Display', serif;
   color: #ffffff;
+<<<<<<< HEAD
   background-image: url("master/unit_5/images/chicken_tile.jpg");
   background-size: cover;
   background-repeat: repeat;
+=======
+  background-image: url(/images/chicken_tile.jpg);
+  background-size: cover;
+  /*background-repeat: repeat;*/
+>>>>>>> be589b031dd9894dcefd6cd5c0b4bf2d6fad3b68
   padding: 70px;
   line-height: 200%;
 }
