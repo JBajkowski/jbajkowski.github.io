@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto|Playfair+Display');
 
+nav {
+  font-size: 1.8em;
+}
+
+nav a {
+  text-decoration: none;
+  color: #000000;
+  margin: 1.8em;
+  display: inline-block;
+}
 
 
 body {
@@ -16,11 +26,6 @@ p {
   font-size: 14px;
 }
 
-nav {
-  text-align: center;
-  font-style: bold
-
-}
 
 header {
 	text-align: center;
