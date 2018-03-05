@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto|Playfair+Display');
 
 nav {
-  font-size: 1.8em;
+  font-size: 1em;
 }
 
 nav a {
   text-decoration: none;
   color: #000000;
-  margin: 1.8em;
+  margin: 1em;
   display: inline-block;
 }
 
@@ -72,6 +72,6 @@ header {
 
 footer {
   text-align: center;
-  background-color: #FF957E;
+  background-color: #000;
   font-style: bold
 }
