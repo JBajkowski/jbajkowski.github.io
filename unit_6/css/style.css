@@ -38,6 +38,11 @@ header {
 	text-align: center;
 }
 
+section {
+  overflow: auto;
+}
+
+
 #notice {
   text-align: center;
   font-size: 20px;
@@ -93,10 +98,12 @@ ul {
 li  {
   float: left;
   width: 50%;
-  height: 12em;
+  height: 6em;
+  outline: 3px solid #222;
   text-align: center;
-  line-height: 12em;
+  line-height: 6em;
   color: #000;
+  background: #fff;
 }
 
 footer {
