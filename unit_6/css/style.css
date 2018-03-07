@@ -31,14 +31,12 @@ h2  {
 }
 
 p {
-	font-family: 'Roboto', sans-serif;
   font-size: 14px;
 }
 
 
 header {
 	text-align: center;
-	font-family: 'Roboto', sans-serif;
 }
 
 #notice {
@@ -63,7 +61,7 @@ header {
   text-align: left;
   padding:5px 50px;
   font-size: 20px;
-  font-family: 'Roboto', sans-serif;
+  /*font-family: 'Roboto', sans-serif;*/
 }
 
 .grid-container-2 {
@@ -76,7 +74,7 @@ header {
   text-align: center;
   padding:20px 20px;
   font-size: 15px;
-  font-family: 'Roboto', sans-serif;
+/*  font-family: 'Roboto', sans-serif;*/
 }
 
 footer {
