@@ -77,11 +77,11 @@ header {
 }
 
 #left-item  {
-  align:right;
+  text-align:right;
 }
 
 #right-item {
-  align:left;
+  text-align:left;
 }
 
 footer {
