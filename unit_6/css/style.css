@@ -84,13 +84,11 @@ ul {
 
 li  {
   float: left;
-  width: 50%;
-  height: 6em;
-  outline: 3px solid #222;
+  width: 25%;
+  height: 12em;
   text-align: center;
-  line-height: 6em;
+  line-height: 12em;
   color: #000;
-  background: #fff;
 }
 
 footer {
