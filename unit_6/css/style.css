@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto|Playfair+Display');
 
+
+
+body {
+	background-color: aliceblue;
+  font-family: 'Roboto', sans-serif;
+}
+
 nav {
   font-size: 1em;
 }
@@ -9,12 +16,6 @@ nav a {
   color: #000000;
   margin: 1em;
   display: inline-block;
-}
-
-
-body {
-	background-color: aliceblue;
-  font-family: 'Roboto', sans-serif;
 }
 
 
