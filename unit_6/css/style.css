@@ -76,15 +76,16 @@ header {
 /*  font-family: 'Roboto', sans-serif;*/
 }
 
-#left-item  {
+#left-item>div  {
   text-align:right;
 }
 
-#right-item {
+#right-item>div {
   text-align:left;
 }
 
 footer {
+  text-align: center;
   font-size: 1em;
   text-decoration: none;
   color: #000000;
