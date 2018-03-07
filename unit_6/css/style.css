@@ -50,6 +50,14 @@ header {
   line-height: 200%;
 }
 
+#about  {
+  float: left;
+}
+
+#services {
+  float: right;
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
@@ -84,7 +92,7 @@ ul {
 
 li  {
   float: left;
-  width: 25%;
+  width: 50%;
   height: 12em;
   text-align: center;
   line-height: 12em;
