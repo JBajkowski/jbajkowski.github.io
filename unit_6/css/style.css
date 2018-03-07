@@ -76,6 +76,14 @@ header {
 /*  font-family: 'Roboto', sans-serif;*/
 }
 
+#left-item  {
+  align:right;
+}
+
+#right-item {
+  align:left;
+}
+
 footer {
   font-size: 1em;
   text-decoration: none;
