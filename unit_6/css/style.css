@@ -76,12 +76,21 @@ header {
 /*  font-family: 'Roboto', sans-serif;*/
 }
 
-#left-item>div  {
-  text-align:right;
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-#right-item>div {
-  text-align:left;
+li  {
+  float: left;
+  width: 50%;
+  height: 6em;
+  outline: 3px solid #222;
+  text-align: center;
+  line-height: 6em;
+  color: #000;
+  background: #fff;
 }
 
 footer {
