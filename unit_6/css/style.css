@@ -94,19 +94,18 @@ section {
 
 ul {
   list-style: none;
-  margin: 0;
+  margin: 25%;
   padding: 0;
 }
 
 li  {
   float: left;
   width: 50%;
-  height: 6em;
+  height: 250px;
   outline: 3px solid #222;
   text-align: center;
   line-height: 6em;
   color: #000;
-  background: #fff;
 }
 
 footer {
