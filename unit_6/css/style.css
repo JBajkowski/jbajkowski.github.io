@@ -38,16 +38,6 @@ header {
 	text-align: center;
 }
 
-div {
-  font-size: 1.2em;
-  width: 46%;
-  padding: 2%;
-  display: inline-block;
-}
-
-section {
-  overflow: auto;
-}
 
 
 #notice {
@@ -62,9 +52,6 @@ section {
   line-height: 200%;
 }
 
-#services {
-  float: right;
-}
 
 .grid-container {
   display: grid;
@@ -92,21 +79,6 @@ section {
 /*  font-family: 'Roboto', sans-serif;*/
 }
 
-ul {
-  list-style: inside;
-  margin: 50px;
-  padding: 50px;
-}
-
-li  {
-  float: left;
-  width: 50%;
-  height: 250px;
-  outline: 3px solid #222;
-  text-align: center;
-  line-height: 250px;
-  color: #000;
-}
 
 footer {
   text-align: center;
