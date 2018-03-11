@@ -20,13 +20,12 @@ nav a {
 
 
 h1  {
-  font-size: 2em;
   font-family: 'Playfair Display', serif;
   letter-spacing: 5px;
 }
 
 h2  {
-  font-size: 1.5em;
+
   text-align: center;
 }
 
@@ -83,7 +82,7 @@ header {
   text-align: right;
 }
 
-footer {
+footer a {
   text-align: center;
   font-size: 1em;
   text-decoration: none;
