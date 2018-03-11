@@ -86,12 +86,12 @@ a:hover, a:active {
 .grid-container-2 {
   display: grid;
   grid-template-columns: 50% 50%;
-  grid-gap: 10px;
+  grid-gap: 50px 10px;
   padding: 10px 400px;
 }
 .grid-container-2>div {
   /*padding:20px 75px;*/
-  font-size: 1.5em;
+  font-size: 1em;
 /*  font-family: 'Roboto', sans-serif;*/
 }
 
