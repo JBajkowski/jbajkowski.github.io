@@ -79,7 +79,7 @@ a:hover, a:active {
 .grid-container>div {
   text-align: left;
   padding:5px 50px;
-  font-size: 20px;
+  font-size: 1em;
   /*font-family: 'Roboto', sans-serif;*/
 }
 
