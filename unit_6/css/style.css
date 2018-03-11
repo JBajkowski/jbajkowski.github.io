@@ -41,6 +41,7 @@ header {
 a:link, a:visited {
   border-style: solid;
     border-color: black;
+    color: black;
     padding: 14px 25px;
     text-align: center;
     text-decoration: none;
