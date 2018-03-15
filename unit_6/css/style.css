@@ -25,7 +25,8 @@ h1  {
 }
 
 h2  {
-
+  font-family: 'Playfair Display', serif;
+  letter-spacing: 5px;
   text-align: center;
 }
 
@@ -35,6 +36,7 @@ p {
 
 header {
 	text-align: center;
+  background-color: black;
 }
 
 a:link, a:visited {
@@ -51,6 +53,8 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: black;
     color: white;
+    border-style: solid;
+    border-color: aliceblue;
 
 }
 
