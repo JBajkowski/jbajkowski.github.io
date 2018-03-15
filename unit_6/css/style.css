@@ -36,27 +36,43 @@ p {
 
 header {
 	text-align: center;
-  background-color: black;
 }
 
-a:link, a:visited {
-    color: black;
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
+.button1 {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }
 
 
-a:hover, a:active {
+.button1:hover {
     background-color: black;
     color: white;
-    text-decoration: underline;
 }
 
-#notice_link  {
+.button2 {
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
   color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }
+
+
+.button2:hover {
+    background-color: white;
+    color: black;
+}
+
+
 
 #notice {
   text-align: center;
