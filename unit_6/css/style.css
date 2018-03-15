@@ -40,8 +40,6 @@ header {
 }
 
 a:link, a:visited {
-  border-style: solid;
-    border-color: black;
     color: black;
     padding: 14px 25px;
     text-align: center;
@@ -53,12 +51,12 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: black;
     color: white;
-    border-style: solid;
-    border-color: aliceblue;
-
+    text-decoration: underline;
 }
 
-
+#notice_link  {
+  color: white;
+}
 
 #notice {
   text-align: center;
