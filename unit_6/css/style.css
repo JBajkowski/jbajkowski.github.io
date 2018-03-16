@@ -39,6 +39,8 @@ header {
 }
 .logo {
   float: left;
+  width: 200px;
+
 }
 
 .button1 {
@@ -78,6 +80,7 @@ header {
 
 
 #notice {
+  clear: both;
   text-align: center;
   font-size: 20px;
   letter-spacing: 3px;
