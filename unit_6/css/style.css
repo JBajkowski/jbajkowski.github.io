@@ -37,6 +37,9 @@ p {
 header {
 	text-align: center;
 }
+.logo {
+  float: left;
+}
 
 .button1 {
   border-style: solid;
