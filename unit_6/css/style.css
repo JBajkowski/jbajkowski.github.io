@@ -98,7 +98,9 @@ width: 100%;
     color: black;
 }
 
-
+#testimonials {
+  padding: 75px 0px;
+}
 
 #notice {
   clear: both;
@@ -138,7 +140,7 @@ width: 100%;
   margin: auto;
 }
 .grid-container-2>div {
-  padding:20px 75px;
+  padding:20px 10px;
   font-size: 1em;
   font-family: 'Roboto', sans-serif;
 }
