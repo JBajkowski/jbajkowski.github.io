@@ -39,6 +39,7 @@ p {
 
 header {
 	text-align: center;
+      clear: both;
 }
 
 #notice {
