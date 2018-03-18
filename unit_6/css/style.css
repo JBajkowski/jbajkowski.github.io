@@ -9,7 +9,6 @@ body {
 
 nav {
   font-size: 1em;
-    clear: both;
 
 }
 
@@ -18,7 +17,7 @@ nav a {
   color: #000000;
   margin: 1em;
   display: inline-block;
-  float: right;
+  float: left;
 }
 
 
@@ -44,10 +43,10 @@ header {
 
 #login {
     text-decoration: underline;
-    float: right;
+    float: left;
     color: white;
     background-color: black;
-    display: inline-block;
+    display:;
 }
 
 .logo {
