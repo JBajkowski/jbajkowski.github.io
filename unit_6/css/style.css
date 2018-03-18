@@ -24,20 +24,20 @@ nav a {
 h1  {
   font-family: 'Playfair Display', serif;
   letter-spacing: 5px;
-  size: 3em;
+  font-size: 3em;
 }
 
 h2  {
   font-family: 'Playfair Display', serif;
   letter-spacing: 5px;
   text-align: center;
-  size: 2em;
-  padding: 2em;
+  font-size: 2em;
+  font-padding: 2em;
 }
 
 p {
     font-family: 'Roboto', sans-serif;
-    padding: 1em;
+    font-padding: 1em;
 
 }
 
