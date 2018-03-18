@@ -17,7 +17,7 @@ nav a {
   color: #000000;
   margin: 1em;
   display: inline-block;
-  float: left;
+  float: right;
 }
 
 
@@ -43,10 +43,8 @@ header {
 
 #login {
     text-decoration: underline;
-    float: left;
+    float: right;
     color: white;
-    background-color: black;
-    display:;
 }
 
 .logo {
