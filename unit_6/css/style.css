@@ -9,6 +9,7 @@ body {
 
 nav {
   font-size: 1em;
+
 }
 
 nav a {
@@ -16,6 +17,7 @@ nav a {
   color: #000000;
   margin: 1em;
   display: inline-block;
+  float: right;
 }
 
 
@@ -37,9 +39,17 @@ p {
 header {
 	text-align: center;
 }
+
+#notice {
+    text-decoration: underline;
+    float: right;
+    color: white;
+    background-color: black;
+}
+
 .logo {
   float: left;
-  width: 200px;
+  width: 250px;
 
 }
 
@@ -51,7 +61,7 @@ header {
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+ /* display: inline-block; */
 }
 
 
@@ -68,7 +78,7 @@ header {
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  /* display: inline-block; */
 }
 
 
