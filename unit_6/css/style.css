@@ -47,6 +47,7 @@ header {
     float: right;
     color: white;
     background-color: black;
+    display: inline-block;
 }
 
 .logo {
@@ -63,7 +64,7 @@ header {
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
- /* display: inline-block; */
+  display: inline-block;
 }
 
 
@@ -80,7 +81,7 @@ header {
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
-  /* display: inline-block; */
+  display: inline-block;
 }
 
 
