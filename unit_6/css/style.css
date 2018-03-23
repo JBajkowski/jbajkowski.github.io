@@ -190,6 +190,11 @@ nav a {
   float: none;
 }
 
+.button1 {
+  display: block;
+  clear: both;
+}
+
 @media only screen and (max-width: 480px) {
   .grid-container {
   display: grid;
