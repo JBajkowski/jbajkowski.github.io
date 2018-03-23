@@ -165,10 +165,7 @@ footer {
 
 @media only screen and (max-width: 1160px) {
   .grid-container {
-    display: grid;
-    grid-gap: 1em;
-    padding: 1em;
-    margin: auto;
+
 }
 
 }
