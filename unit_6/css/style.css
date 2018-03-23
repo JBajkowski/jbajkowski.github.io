@@ -173,7 +173,7 @@ footer {
   margin: auto;
 }
 
-grid-container-2 {
+.grid-container-2 {
   display: grid;
   grid-template-columns: auto;
   grid-gap: 0px;
