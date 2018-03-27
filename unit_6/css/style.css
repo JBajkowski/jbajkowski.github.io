@@ -60,6 +60,8 @@ width: 100%;
     text-decoration: underline;
     float: right;
     color: white;
+    display: block;
+    background-color: black
 }
 
 .logo {
