@@ -34,7 +34,7 @@ body {
 }
 
 .topnav li a:hover {
-    background-color: #fff7f0;
+    background-color: #a4d4ff;
 }
 
 .topnav li.right {
@@ -67,7 +67,6 @@ h3  {
 p {
   font-family: 'Roboto', sans-serif;
   font-padding: 1em;
-
 }
 
 
@@ -95,7 +94,7 @@ img {
 
 
 .button1:hover {
-    background-color: black;
+    background-color: #a4d4ff;
     color: white;
 }
 
@@ -166,13 +165,13 @@ img {
 }
 
 .right-item {
-  font-size: 2em;
+  font-size: 20px;
   font-style: italic;
 }
 
 .left-item {
   text-align: right;
-  font-size: 2em;
+  font-size: 20px;
   font-style: italic;
 }
 
@@ -183,7 +182,7 @@ footer {
   color: #000000;
   margin: 1em;
   display: inline-block;
-  background-color: black;
+  background-color: #a4d4ff;
 }
 
 
